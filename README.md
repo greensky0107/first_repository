@@ -3,3 +3,6 @@ Main Quest 11 에서 AutoInt + 모델의 성능 향상을 위해  3가지 실험
 
 # Main Quest 11 Streamlit 작성시 문제점
 마지막 단계인 영화추천 단계에서 코드가 작동하지 않았음.  data가 비어 있지는 않는데도, 모델이 추천할 영화를 찾지 못하고 있음.   모델이 예측한 상위 20개 영화의 평점을 확인해보려 했으나, 코드가 작동하지 않았음.   일단 여기서 프로젝트 마무리하고 차후 다시 문제를 풀어볼 예정임.
+
+# Streamlit 작동영상
+[영상 보러 가기 - YouTube]((https://studio.youtube.com/video/bgtLMP20I2g/edit))
